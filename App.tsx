@@ -1,9 +1,7 @@
-import Chatbot from "./components/Chatbot";
-
 function App() {
   return (
-    <div>
-      <Chatbot />
+    <div style={{ color: "blue", fontSize: "30px" }}>
+      Hello from App.tsx
     </div>
   );
 }
